@@ -12,6 +12,8 @@ https://colab.research.google.com/drive/1tbGG1K0WBjEgZZRpycgnEDxWzD1G4PsE#scroll
 Pendulum video files and pendulum data can be found here:
 https://drive.google.com/drive/folders/1p34RlWFOk55vy_q1dlDfXPL3G2YYsf8J?usp=drive_link
 
-The .pynb files show the code.
+The .ipynb files show the code.
+
 The .mp4 files show the videos.
+
 The .txt files show the raw data.
